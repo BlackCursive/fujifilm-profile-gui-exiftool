@@ -89,7 +89,7 @@ cd ..
 
 ## Sample Output
 
-![ExifCli](https://github.com/BlackCursive/fujifilm-profile-exiftool/blob/main/exifcli.gif)
+![ExifCli](https://github.com/BlackCursive/fujifilm-profile-exiftool/blob/main/gui_exifcli.gif)
 
 ---
 
@@ -97,4 +97,4 @@ This project is built with ![Exiftool](https://github.com/exiftool) by Phil Harv
 
 -    ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
 
-Also, the base code for the converter used was created by Khuzaima and Faisal Nazik. ![Exiftool](https://github.com/kzmfhm/pyqt6-webp-file-converter) - WebP Converter
+Also, the base code for the converter used was created by Khuzaima and Faisal Nazik. ![WebP Converter](https://github.com/kzmfhm/pyqt6-webp-file-converter)
