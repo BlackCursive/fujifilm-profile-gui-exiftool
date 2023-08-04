@@ -97,4 +97,6 @@ This project is built with ![Exiftool](https://github.com/exiftool) by Phil Harv
 
 -    ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
 
-Also, the base code for the converter used was created by Khuzaima and Faisal Nazik. ![WebP Converter](https://github.com/kzmfhm/pyqt6-webp-file-converter)
+Also, the base code for the converter used was created by Khuzaima and Faisal Nazik.
+
+-    A Desktop application built with PyQt6 to convert image files to webp format.![WebP Converter](https://github.com/kzmfhm/pyqt6-webp-file-converter)
