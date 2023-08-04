@@ -89,7 +89,7 @@ cd ..
 
 ## Sample Output
 
-![ExifCli](https://github.com/BlackCursive/fujifilm-profile-exiftool/blob/main/gui_exifcli.gif)
+![ExifCli](https://github.com/BlackCursive/fujifilm-profile-gui-exiftool/blob/main/gui_exifcli.gif)
 
 ---
 
@@ -99,4 +99,4 @@ This project is built with ![Exiftool](https://github.com/exiftool) by Phil Harv
 
 Also, the base code for the converter used was created by Khuzaima and Faisal Nazik.
 
--    A Desktop application built with PyQt6 to convert image files to webp format.![WebP Converter](https://github.com/kzmfhm/pyqt6-webp-file-converter)
+-    A Desktop application built with PyQt6 to convert image files to webp format. ![WebP Converter](https://github.com/kzmfhm/pyqt6-webp-file-converter)
